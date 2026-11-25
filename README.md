@@ -56,7 +56,7 @@ Para adicionar um projeto, é só incluir um item na lista `PROJETOS` do `script
 
 <div align="center">
 
-Feito com 💜 por **[Johnny Lucas](https://github.com/Johnn5527)**
+Feito com por **[Johnny Lucas](https://github.com/Johnn5527)**
 
 </div>
 
